@@ -23,4 +23,6 @@ There are multiple ways to contribute:
 
 # Tagging the bibliography
 
-<TODO>
+Coming soonish.  For now, add the tag in the bibliography:
+
+* "OTOL Target" - if you think the phylogeny is particularly important (for any reason) in the OTOL
