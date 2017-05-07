@@ -1,6 +1,6 @@
 # OTOL Hymenoptera Bibliography
 
-Snapshots of a curated (in [Zotero](https://www.zotero.org/download/)) bibliography of papers including Hymenopteran phylogenies.  The goal is to use this a basis for upating the ["synthetic" tree for Hymenoptera](https://tree.opentreeoflife.org/opentree/argus/ottol@753726/Hymenoptera) and for using in calculating metrics.
+Snapshots of a curated (in [Zotero](https://www.zotero.org/groups/otol_hymenoptera_bibliography) bibliography of papers including Hymenopteran phylogenies.  The goal is to use this a basis for upating the ["synthetic" tree for Hymenoptera](https://tree.opentreeoflife.org/opentree/argus/ottol@753726/Hymenoptera) and for using in calculating metrics.
 
 # Critera for inclusion in the bibliography
 
@@ -15,8 +15,8 @@ Studies in this bibliography should meet the following criteria:
 
 There are multiple ways to contribute:
 
-* _Best_: Curate a study on the OTOL site. We will [harvest those studies](#3) from time to time and merge them here.
-* _Next best_: Join the  [Zotero](https://www.zotero.org/groups/otol_hymenoptera bibliography) group and edit the bibliography directly
+* _Best_: Curate a study on the OTOL site. We will harvest those studies from time to time and merge them here.
+* _Next best_: Join the [Zotero])(https://www.zotero.org/groups/otol_hymenoptera_bibliography) group and edit the bibliography directly
 * Open an issue here and post a link to the citation, or the citation itself if not available digitally.
 * Download the bibliography, merge it with your own bibliography, and send result (currently to Matt).
 * Fork the bibliography here on github, merge it, and send a pull request back.
