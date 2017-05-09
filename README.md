@@ -15,7 +15,7 @@ Studies in this bibliography should meet the following criteria:
 
 There are multiple ways to contribute:
 
-* _Best_: Curate a study on the OTOL site. We will harvest those studies from time to time and merge them here.
+* _Best_: [Curate a study on the OTOL site](https://tree.opentreeoflife.org/curator/study/create). We will harvest those studies from time to time and merge them here.  You will [need a Github account](https://github.com/join) to add a study.
 * _Next best_: Join the [Zotero](https://www.zotero.org/groups/otol_hymenoptera_bibliography) group and edit the bibliography directly
 * Open an issue here and post a link to the citation, or the citation itself if not available digitally.
 * Download the bibliography, merge it with your own bibliography, and send result (currently to Matt).
